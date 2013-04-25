@@ -12,3 +12,16 @@ Version: 0.1
 body{
 	border:2px solid red
 }
+hgroup{
+	border: 1px solid red;
+	height: 120px;
+}
+.site-header h1{
+	background: url(http://www.satenspr.com/wp-content/uploads/2013/04/headerlogo.png) no-repeat left;
+	line-height: 120px;
+	padding-left: 105px;
+}
+.site-header h2{
+	float:left;es
+	margin:-50px 0 0 105px;
+}
