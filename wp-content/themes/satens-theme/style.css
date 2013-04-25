@@ -1,0 +1,14 @@
+/*
+Theme Name: Satens
+Theme URI: http: //satenspr.com.com/
+Description: This is a custom theme for satenspr.com by jejedesigns.
+Author: AyF
+Author URI: http: //jejedesigns.com/
+Template: twentytwelve
+Version: 0.1
+*/
+@import url("../twentytwelve/style.css");
+
+body{
+	border:2px solid red
+}
