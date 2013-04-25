@@ -13,7 +13,6 @@ body{
 	border:2px solid red
 }
 hgroup{
-	border: 1px solid red;
 	height: 120px;
 }
 .site-header h1{
@@ -22,6 +21,6 @@ hgroup{
 	padding-left: 105px;
 }
 .site-header h2{
-	float:left;es
+	float:left;
 	margin:-50px 0 0 105px;
 }
